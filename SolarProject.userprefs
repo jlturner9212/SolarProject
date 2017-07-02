@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{A58F6C52-F55D-1B3A-B438-34125D411A74}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Sun.cs">
+    <Files>
+      <File FileName="Assets/Planetoid.cs" Line="30" Column="28" />
+      <File FileName="Assets/Earth.cs" Line="18" Column="1" />
+      <File FileName="Assets/Uranus.cs" Line="5" Column="32" />
+      <File FileName="Assets/Sun.cs" Line="7" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SolarProject PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
